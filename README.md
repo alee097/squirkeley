@@ -18,7 +18,10 @@ An all-in-one squirrel sighting map and app built for Cal students. This platfor
 
 **Timeline**:
 
-April 21 - 22: Ideation and brainstorming process
+April 21 - 22: Ideation and brainstorming process, begin creating slideshow presentation
+
 April 23 - 25: Setup APIs and backend, begin creating UI elements and JavaScript integrations, navigation
+
 April 26 - 29: Finish coding backend and frontend, polish interactive elements, user experience, readability, and aesthetic
-April 30: Final checks and testing, prepare for demo day
+
+April 30: Final checks and testing, finish slideshow, prepare for demo day
